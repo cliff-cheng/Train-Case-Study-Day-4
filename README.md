@@ -45,20 +45,13 @@ All the coordinate information had to be cleaned before it could be mapped.
 
 ## Data Visualization
 
-First we created a video showing the change in the amount of train tracks over time.
+First we can compare the total of track from 1860 to 2019. 1860 was chosen because it had a better dataset to compare to then anytime before that. 
 
 Figure 1.
 
-(See attached video)
-
-
-Now we can compare the total of track from 1860 to 2019. 1860 was chosen because it had a better dataset to compare to then anytime before that. 
-
-Figure 2.
-
 ![1860-bar](https://user-images.githubusercontent.com/62854851/86546776-4b693700-beeb-11ea-9842-8443e0c79622.png)
 
-Figure 3.
+Figure 2.
 
 ![2019- bar](https://user-images.githubusercontent.com/62854851/86546788-54f29f00-beeb-11ea-9e9f-69c29db849dc.png)
 
@@ -68,6 +61,8 @@ As you can see since 1860 a lot more tracks have been put up and the countries t
 
 Here is what we could do with dataset we had.
 
+Figure 3.
+
 ![Screen Shot 2020-07-05 at 6 30 21 PM](https://user-images.githubusercontent.com/62854851/86554219-d6edc280-bf01-11ea-8e85-72fca6c1ac25.png)
 
 
@@ -76,7 +71,7 @@ Here is what we could do with dataset we had.
 
 Looking at the data we noted that a lot of track/station data is missing from Asia(excluding Japan), particularly with China. The data shows a discrepancy towards western countries, and may be due to where the data was pulled from. We suspect that there may have been more data from Japan due to the influence of the western countries after WWII. You can see the discrepancies more clearly below. 
 
-Figure 5.
+Figure 4.
 
 ![Screen Shot 2020-07-05 at 5 40 05 PM](https://user-images.githubusercontent.com/62854851/86546854-9edb8500-beeb-11ea-9dc1-c4e46712145c.png)
 
