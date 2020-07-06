@@ -9,16 +9,19 @@ By: Clifford Cheng, Nora Huntington & Samantha Jamwal
 The Transit systems of the world Dataset contained multiple datasets with a common Key of ‘city id’, we used this to merge the sets together. Each dataset had many different columns that gave the ability to create maps of the stations and tracks over a geographical map similar to google maps. 
 
 The city dataset contained 334 cities with their corresponding country and geo coordinates. 
+
 ![city dataset](https://user-images.githubusercontent.com/62854851/86546716-0b09b900-beeb-11ea-9781-2b0c4ec64ce9.png)
 
 
 
 The station dataset contained 15,794 stations around the world with their corresponding geo coordinates and the year building started, the year it opened, and the year it closed, if applicable. 
+
 ![station dataset](https://user-images.githubusercontent.com/62854851/86546733-1ceb5c00-beeb-11ea-88b7-f81ad64ceb71.png)
 
 
 
 The track dataset contained 9,271 tracks around the world with a list of geo coordinates mapping their section and the year building started, the year it opened, and the year it closed, if applicable. 
+
 ![track dataset](https://user-images.githubusercontent.com/62854851/86546750-32608600-beeb-11ea-9796-781619d8f77e.png)
 
 
