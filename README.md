@@ -54,7 +54,7 @@ Here you can see…..
 
 
 
-Now if we compare the total of track from 1860 to 2019. 1860 was chosen because it had a better dataset to compare to then anytime before that. 
+Now we can compare the total of track from 1860 to 2019. 1860 was chosen because it had a better dataset to compare to then anytime before that. 
 
 Figure 2.
 
