@@ -43,13 +43,9 @@ The column ‘coords’ gave a string value instead of a list with the coordinat
 All the coordinate information had to be cleaned before it could be mapped.
 
 
-![Screen Shot 2020-07-05 at 6 30 21 PM](https://user-images.githubusercontent.com/62854851/86554219-d6edc280-bf01-11ea-8e85-72fca6c1ac25.png)
-
-
-
 ## Data Visualization
 
-First we created a video showing the change in train tracks overtime, using……. 
+First we created a video showing the change in the amount of train tracks over time.
 
 Figure 1.
 
@@ -72,6 +68,10 @@ Figure 3.
 
 As you can see since 1860 a lot more tracks have been put up and the countries that had the most tracks put up in 1860 still rank rather high up in the number of tracks compared to others with the exception of Japan. 
 
+Here is what we could do with dataset we had.
+
+![Screen Shot 2020-07-05 at 6 30 21 PM](https://user-images.githubusercontent.com/62854851/86554219-d6edc280-bf01-11ea-8e85-72fca6c1ac25.png)
+
 
 
 ## Discrepancies noted
@@ -84,7 +84,7 @@ Figure 5.
 
 
 ## References
-
+https://www.kaggle.com/citylines/city-lines
 
 
 
