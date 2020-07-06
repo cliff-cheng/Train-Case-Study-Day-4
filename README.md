@@ -72,11 +72,6 @@ Figure 3.
 
 As you can see since 1860 a lot more tracks have been put up and the countries that had the most tracks put up in 1860 still rank rather high up in the number of tracks compared to others with the exception of Japan. 
 
-Figure 4.
-
-(timeline showing major events )
-
-
 
 
 ## Discrepancies noted
