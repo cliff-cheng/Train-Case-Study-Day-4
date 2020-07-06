@@ -28,7 +28,14 @@ We were interested in the data containing the information of cities, stations an
 
 The column ‘coords’ gave a string value instead of a list with the coordinates. To fix this all unnecessary information had to be removed, the string had to be converted to a list and each string had to be converted to a float. The coordinates were also in order of longitude, latitude and had to be reversed. 
 
-#### Was a lot of data missing? If so, what did you do to handle it?
+### Missing Data
+--While there were 334 cities in the city dataframe, there were only 83 cities with location data for stations and their connecting tracks, so we focused on those cities. 
+
+--Some of the building start, opening, and closure years in the stations and tracks datasets had unrealistic years (<=0 or >=9999). We changed these values to null 
+
+--values. Also two years appeared to have been inputted incorrectly as they were only 3 digits long. These were also changed to null values.
+All the coordinate information had to be cleaned before it could be mapped.
+
 
 
 ## Data Visualization
