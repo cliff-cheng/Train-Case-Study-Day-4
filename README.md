@@ -50,7 +50,6 @@ First we created a video showing the change in train tracks overtime, using…�
 
 Figure 1.
 
-(gif/video of tracks across time)
 
 Here you can see…..
 
