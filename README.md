@@ -69,7 +69,7 @@ Figure 3.
 
 ## Discrepancies noted
 
-Looking at the data we noted that a lot of track/station data is missing from Asia(excluding Japan), particularly with China. The data shows a discrepancy towards western countries, and may be due to where the data was pulled from. We suspect that there may have been more data from Japan due to the influence of the western countries after WWII. You can see the discrepancies more clearly below. 
+Looking at the data we noted that a lot of track/station data is missing from Asia(excluding Japan), particularly with China. The data shows a discrepancy towards western countries, and may be due to where the data was pulled from. We suspect that there may have been more data from Japan due to the influence of the western countries after WWII. Japan and Europe also have a lot of railways due to its lack of natural resources like gas. You can see the discrepancies more clearly below. 
 
 Figure 4.
 
