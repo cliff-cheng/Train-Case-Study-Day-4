@@ -43,6 +43,9 @@ The column ‘coords’ gave a string value instead of a list with the coordinat
 All the coordinate information had to be cleaned before it could be mapped.
 
 
+![Screen Shot 2020-07-05 at 6 30 21 PM](https://user-images.githubusercontent.com/62854851/86554219-d6edc280-bf01-11ea-8e85-72fca6c1ac25.png)
+
+
 
 ## Data Visualization
 
