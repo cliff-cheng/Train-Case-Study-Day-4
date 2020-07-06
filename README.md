@@ -29,6 +29,7 @@ The track dataset contained 9,271 tracks around the world with a list of geo coo
 There was also a systems dataset with 488 transit systems and a lines dataset with 1,343 lines. A dataset called station_lines allowed us to map these systems and lines to our station table and a track_lines dataset allowed us to map the systems and lines to our tracks table.
 
 ======================
+
 We were interested in the data containing the information of cities, stations and tracks. These included the geolocations, start date, close date and opening date of the tracks and stations along with the names of the cities and their corresponding countries. 
 
 The column ‘coords’ gave a string value instead of a list with the coordinates. To fix this all unnecessary information had to be removed, the string had to be converted to a list and each string had to be converted to a float. The coordinates were also in order of longitude, latitude and had to be reversed. 
