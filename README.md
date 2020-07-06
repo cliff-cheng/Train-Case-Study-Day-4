@@ -53,8 +53,7 @@ First we created a video showing the change in train tracks overtime, using…�
 
 Figure 1.
 
-
-Here you can see…..
+(See attached video)
 
 ======================
 
