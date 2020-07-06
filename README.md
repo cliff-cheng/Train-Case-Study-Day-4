@@ -75,7 +75,7 @@ Figure 4.
 
 
 
-##Discrepancies noted
+## Discrepancies noted
 
 Looking at the data we noted that a lot of track/station data is missing from Asia(excluding Japan), particularly with China. The data shows a discrepancy towards western countries, and may be due to where the data was pulled from. We suspect that there may have been more data from Japan due to the influence of the western countries after WWII. You can see the discrepancies more clearly below. 
 
@@ -84,7 +84,7 @@ Figure 5.
 ![Screen Shot 2020-07-05 at 5 40 05 PM](https://user-images.githubusercontent.com/62854851/86546854-9edb8500-beeb-11ea-9dc1-c4e46712145c.png)
 
 
-##References
+## References
 
 
 
