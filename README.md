@@ -71,8 +71,8 @@ When the data was load, I created 4 main functions that takes the raw uncleaned 
 Below we can use one of the functions to plot all the track lines for Japan in 2017 and San Francisco in 2017. What is interesting to note is that for San Francisco, Caltrain and Muni are considered "tracks" but BART is not. 
 
 <p align="center">
-<img src="trainimages/SanFranciscotracks.png" width="500" height="500">
-<img src="trainimages/citylinesSF.png" width="500" height="500">
+<img src="trainimages/SanFranciscotracks.png" width="400" height="400">
+<img src="trainimages/citylinesSF.png" width="400" height="400">
 </p>
 
 
