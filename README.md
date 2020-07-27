@@ -54,11 +54,11 @@ When the data was load, I created 4 main functions that takes the raw uncleaned 
 - Plot Coordinates (Plot coordinates on a map. Allows for filtering based on year, city, and country)
 
 <p align="center">
-<img src="trainimages/traincities.png" width="400" height="400">
+<img src="trainimages/traincities.png" width="500" height="500">
 </p>
 <p align="center">
 <img src="trainimages/countrytrains.png" width="500" height="500">
- <img src="trainimages/worldtracks.png" width="500" height="500">
+ <img src="trainimages/worldtracks.png" width="700" height="500">
  </p>
  
 [Back To The Top](#Google-Analytics-Ecommerce)
