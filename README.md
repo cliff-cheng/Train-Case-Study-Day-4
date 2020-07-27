@@ -1,7 +1,7 @@
 # Galvanize (Day 4) - Case Study
 Transit Systems of the World - https://www.kaggle.com/citylines/city-lines
 
-![alt-text](trainiamges/Animated GIF-original.mp4)
+![alt-text](https://media.giphy.com/media/dxxPrxycJYHYhNxWlm/giphy.gif)
 
 > Project Goals:
 - Data clean and explore the world's transit systems from 1832 to 2017.
